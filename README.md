@@ -61,7 +61,7 @@ Choices affect favorability, not the overall story path. Each girl has a thresho
 - Turns ordinary activities into competitions
 - Surprisingly vulnerable once things become genuinely romantic
 
-**Romantic Dynamic:** TBD
+**Romantic Dynamic:** TBD\
 **Character Development:** TBD
 
 ### 2. Stegosaurus — The Dandere
@@ -81,7 +81,7 @@ Choices affect favorability, not the overall story path. Each girl has a thresho
 - Opens up and gains confidence around people she trusts
 - Has her own opinions, boundaries, and occasional stubbornness
 
-**Romantic Dynamic:** A relationship built on gradually developing trust and comfort.
+**Romantic Dynamic:** A relationship built on gradually developing trust and comfort.\
 **Character Development:** Learning to express herself, communicate her feelings, and step outside her comfort zone.
 
 ### 3. Tyrannosaurus Rex — The Gyaru Tsundere
@@ -102,7 +102,7 @@ Choices affect favorability, not the overall story path. Each girl has a thresho
 - Enjoys attention and isn't shy about expressing herself
 - Struggles to admit vulnerability or that she genuinely cares
 
-**Romantic Dynamic:** TBD
+**Romantic Dynamic:** TBD\
 **Character Development:** TBD
 
 ## Scope
