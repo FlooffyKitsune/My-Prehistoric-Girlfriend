@@ -25,12 +25,23 @@ The player romances one of three anthropomorphic dinosaur-girl love interests: a
 
 ## Story Outline
 
-1. **Introduction** – Establish the protagonist, campus, and daily life. Introduce the Velociraptor (visiting his home) and the Stegosaurus (committee work), and give them a reason to start spending time together.
-2. **Meeting the T. rex** – Introduced separately from the others. *She* saves the *protagonist*, which shows her agency and hints at a softer side under her intimidating reputation.
-3. **Group Activity** – Bring all four together. Build familiarity through everyday interactions and individual character events.
-4. **Water Park Plans** – The group hears about a newly opened water park and decides to go. The girls need new swimsuits.
-5. **Shopping Trip** – Swimsuit shopping at the mall. Major favorability opportunities with each girl, plus swimsuit visuals.
-6. **Pool Day / Finale** – At the water park, the player's final choices decide who he spends time with. Depending on favorability, she may get a private moment with the protagonist before the group regroups.
+*Status: Arc 1 scenes WIP*
+
+### Arc 1 – Introductions
+
+1. **Introduction** – Establish the protagonist, campus, and daily life. Introduce the Velociraptor (visiting his home) and the Stegosaurus (committee work).
+2. **Meeting the T. rex** – Introduced separately from the others. She saves the protagonist, which shows her agency and hints at a softer side under her intimidating reputation.
+3. **Bringing Everyone Together** – The Stegosaurus comes over to finish committee work and meets the Velociraptor. A snack run brings the T. rex into the group, and a video game rivalry turns the protagonist's home into their regular hangout.
+
+### Arc 2 – Growing Closer
+
+4. **Character Events** – One-on-one time with each girl, alongside group hangouts at the protagonist's home. This is the main stretch for building favorability.
+5. **Water Park Plans** – The group hears about a newly opened water park and decides to go. The girls need new swimsuits.
+
+### Arc 3 – The Water Park
+
+6. **Shopping Trip** – Swimsuit shopping at the mall. Major favorability opportunities with each girl, plus swimsuit visuals.
+7. **Pool Day / Finale** – At the water park, the player's final choices decide who the protagonist spends time with. Depending on favorability, she may get a private moment with him before the group regroups.
 
 ## Favorability & Endings
 
@@ -108,6 +119,7 @@ Choices affect favorability, not the overall story path. Each girl has a thresho
 ## Scope
 
 - Keep the story linear; choices only affect favorability.
+- Choices appear only where they fit naturally (roughly one every other scene).
 - No major branching paths or standalone character subplots.
 - Focus on each girl's relationship with the protagonist.
 - Use a small set of recurring locations and events.
@@ -116,6 +128,5 @@ Choices affect favorability, not the overall story path. Each girl has a thresho
 ## Still To Be Decided
 
 - Final names for all three girls
-- Why all three girls start spending time together
+- Arc 2 character events for each girl
 - Romantic dynamics and development arcs (Velociraptor and T. rex)
-- Specific events linking the introduction to the water park finale
