@@ -16,7 +16,7 @@ The player romances one of three anthropomorphic dinosaur-girl love interests: a
 
 ## Setting & Background
 
-- The protagonist's parents are working abroad, so he lives on his own in the family home.
+- The protagonist, **Ishida Yūto** (default name), lives on his own in the family home while his parents work abroad.
 - **Velociraptor:** childhood friend and next-door neighbor. Their families know each other, and she's used to dropping by his house.
 - **Stegosaurus:** same year as the protagonist; volunteers on the department student committee. A professor assigns the protagonist to help the committee, which puts them in regular contact.
 - **T. rex:** an upperclassman, one year ahead.
@@ -25,7 +25,7 @@ The player romances one of three anthropomorphic dinosaur-girl love interests: a
 
 ## Story Outline
 
-*Status: Arc 1 scenes WIP*
+*Status: Arc 1 drafted; Arc 2 outlined*
 
 ### Arc 1 – Introductions
 
@@ -35,7 +35,10 @@ The player romances one of three anthropomorphic dinosaur-girl love interests: a
 
 ### Arc 2 – Growing Closer
 
-4. **Character Events** – One-on-one time with each girl, alongside group hangouts at the protagonist's home. This is the main stretch for building favorability.
+4. **Character Events** – One-on-one time with each girl, alongside weekly game nights at the protagonist's home. This is the main stretch for building favorability. Each girl follows a **seed → event → echo** pattern: a small setup moment, a major event, and a follow-up where she acts a little differently around him.
+   - **Stegosaurus:** gives a speech at the department event when the committee lead is out sick.
+   - **T. rex:** a shopping trip where she lets slip that people only want her for status.
+   - **Velociraptor:** a sports day relay that ends with a twisted ankle and a piggyback ride home.
 5. **Water Park Plans** – The group hears about a newly opened water park and decides to go. The girls need new swimsuits.
 
 ### Arc 3 – The Water Park
@@ -51,11 +54,13 @@ Choices affect favorability, not the overall story path. Each girl has a thresho
 |---|---|
 | **High** | Private time with the chosen girl, ending in a confession |
 | **Partial** | A brief private moment, but the day ends as a group outing. No confession |
-| **None** | Possible hidden joke ending: a meteor wipes out the group |
+| **None** | Hidden joke ending: a meteor wipes out the group (below a minimum with every girl) |
+
+From Arc 2's final scene onward, some dialogue changes based on favorability to hint at which endings are opening up.
 
 ## Characters
 
-### 1. Velociraptor — The Childhood Friend
+### 1. Hayami Akane — The Childhood Friend (Velociraptor)
 **Archetypes:** Genki, Tomboy, Childhood Friend
 
 **Design**
@@ -64,6 +69,7 @@ Choices affect favorability, not the overall story path. Each girl has a thresho
 - Red high ponytail with slightly messy framing layers
 - Sharp, slightly upturned amber eyes; noticeable fang
 - Long, slim tail (possibly feathered)
+- **Tell:** feathers puff up when she's flustered
 
 **Personality**
 - Competitive, energetic, and athletic
@@ -72,10 +78,10 @@ Choices affect favorability, not the overall story path. Each girl has a thresho
 - Turns ordinary activities into competitions
 - Surprisingly vulnerable once things become genuinely romantic
 
-**Romantic Dynamic:** TBD\
-**Character Development:** TBD
+**Romantic Dynamic:** Friends to lovers. She's always been there, so neither of them noticed when it became something more. She fears changing things could ruin what they already have.\
+**Character Development:** Learning that being vulnerable, or admitting her feelings, isn't "losing."
 
-### 2. Stegosaurus — The Dandere
+### 2. Itabashi Shiori — The Dandere (Stegosaurus)
 **Archetypes:** Dandere, Shy, Gentle
 
 **Design**
@@ -84,6 +90,7 @@ Choices affect favorability, not the overall story path. Each girl has a thresho
 - Ash brown or dusty rose medium-to-long hair, with a braid over one (or both) shoulders
 - Glasses; large, soft, rounded blue eyes; softer expressions
 - Substantial plated tail with thagomizer spikes
+- **Tell:** plates flush pink when she's embarrassed
 
 **Personality**
 - Quiet, gentle, and somewhat socially awkward
@@ -95,7 +102,7 @@ Choices affect favorability, not the overall story path. Each girl has a thresho
 **Romantic Dynamic:** A relationship built on gradually developing trust and comfort.\
 **Character Development:** Learning to express herself, communicate her feelings, and step outside her comfort zone.
 
-### 3. Tyrannosaurus Rex — The Gyaru Tsundere
+### 3. Ryūzaki Reina — The Gyaru Tsundere (T. rex)
 **Archetypes:** Gyaru, Tsundere, Confident
 
 **Design**
@@ -105,6 +112,7 @@ Choices affect favorability, not the overall story path. Each girl has a thresho
 - Confident, fashionable look
 - Narrow, slightly upturned purple eyes; sultry and confident; sharp teeth
 - Large, heavy tail
+- **Tell:** tail sways when she's pleased, even while she denies it
 
 **Personality**
 - Confident, outgoing, and fashionable
@@ -113,8 +121,18 @@ Choices affect favorability, not the overall story path. Each girl has a thresho
 - Enjoys attention and isn't shy about expressing herself
 - Struggles to admit vulnerability or that she genuinely cares
 
-**Romantic Dynamic:** TBD\
-**Character Development:** TBD
+**Romantic Dynamic:** Seeing past the front. People are either intimidated by her or want her for status, and he treats her like a normal person. She protects others but won't let anyone see her need anything.\
+**Character Development:** Learning to drop the confident front and admit she genuinely cares.
+
+### Forms of Address
+
+How characters address each other shifts as they grow closer, in the style of classic visual novels. The narration follows what Yūto calls each girl.
+
+| Character | She calls him | He calls her | Shift at high favorability |
+|---|---|---|---|
+| **Akane** | Yūto | Akane | She says his name seriously, not teasingly |
+| **Shiori** | Ishida-kun | Itabashi-san | She asks him to call her Shiori |
+| **Reina** | Kouhai | Ryūzaki-senpai | She calls him Yūto for the first time, then denies it |
 
 ## Scope
 
@@ -127,6 +145,5 @@ Choices affect favorability, not the overall story path. Each girl has a thresho
 
 ## Still To Be Decided
 
-- Final names for all three girls
-- Arc 2 character events for each girl
-- Romantic dynamics and development arcs (Velociraptor and T. rex)
+- Exact favorability thresholds (set once all choices are written)
+- Arc 3 scene breakdown (shopping trip and finale)
